@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shashankar09
+- 👋 Hi, I’m Shashankar chourasia
 - 👀 I’m interested in exploring
 - 🌱 I’m currently learning programming language
 - 💞️ I’m looking to collaborate on github
